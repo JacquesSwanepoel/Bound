@@ -1,4 +1,4 @@
-# Bound
+# Bound 2022
 A 2D platformer inspired by Jump King, I tried to develop.
 
 I was very inspired by the game Jump King and Super Mario Maker at the time of this project. My idea was to expand on the mechanics of Jump King, and also add a larger world with puzzles and enemies.
