@@ -1,0 +1,10 @@
+2/27/2024 7:04:30 PM
+DESKTOP-077VBED
+Horizontal Jump Force :           10
+Minimum Jump Force :              10
+Fully Charged Jump Time :         0.1
+Charged Jump Extra Force :        20
+BounceCoefficient :               1
+Gravity :                         100
+OneWay Floor Below Overlapbox Size : 1
+
